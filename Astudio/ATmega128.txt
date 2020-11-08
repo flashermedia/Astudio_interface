@@ -1,0 +1,205 @@
+204 AC_IDLE Comparator
+203 ACO
+202 ACME
+201 AINBG
+200 COMP ADC
+199 PRIVATE_SIGNAL1(1)
+198 ACLK
+197 ACTEN
+196 PRIVATE_SIGNAL1(2)
+195 ADCBGEN
+194 ADCEN
+193 AMPEN
+192 DAC_9
+191 DAC_8
+190 DAC_7
+189 DAC_6
+188 DAC_5
+187 DAC_4
+186 DAC_3
+185 DAC_2
+184 DAC_1
+183 DAC_0
+182 EXTCH
+181 G10
+180 G20
+179 GNDEN
+178 HOLD
+177 IREFEN
+176 MUXEN_7
+175 MUXEN_6 ADC
+174 MUXEN_5
+173 MUXEN_4
+172 MUXEN_3
+171 MUXEN_2
+170 MUXEN_1
+169 MUXEN_0
+168 NEGSEL_2
+167 NEGSEL_1
+166 NEGSEL_0
+165 PASSEN
+164 PRECH
+163 SCTEST
+162 ST
+161 VCCREN
+160 PEN Programming enable (observe only)
+159 PE0.Data Port E
+158 PE0.Control
+157 PE0.Pullup_Enable
+156 PE1.Data
+155 PE1.Control
+154 PE1.Pullup_Enable
+153 PE2.Data
+152 PE2.Control
+151 PE2.Pullup_Enable
+150 PE3.Data
+149 PE3.Control
+148 PE3.Pullup_Enable
+147 PE4.Data
+146 PE4.Control
+145 PE4.Pullup_Enable
+144 PE5.Data
+143 PE5.Control
+142 PE5.Pullup_Enable
+141 PE6.Data
+140 PE6.Control
+139 PE6.Pullup_Enable Port E
+138 PE7.Data
+137 PE7.Control
+136 PE7.Pullup_Enable
+135 PB0.Data Port B
+134 PB0.Control
+133 PB0.Pullup_Enable
+132 PB1.Data
+131 PB1.Control
+130 PB1.Pullup_Enable
+129 PB2.Data
+128 PB2.Control
+127 PB2.Pullup_Enable
+126 PB3.Data
+125 PB3.Control
+124 PB3.Pullup_Enable
+123 PB4.Data
+122 PB4.Control
+121 PB4.Pullup_Enable
+120 PB5.Data
+119 PB5.Control
+118 PB5.Pullup_Enable
+117 PB6.Data
+116 PB6.Control
+115 PB6.Pullup_Enable
+114 PB7.Data
+113 PB7.Control
+112 PB7.Pullup_Enable
+111 PG3.Data Port G
+110 PG3.Control
+109 PG3.Pullup_Enable
+108 PG4.Data
+107 PG4.Control
+106 PG4.Pullup_Enable
+105 TOSC 32 kHz Timer Oscillator
+104 TOSCON
+103 RSTT Reset Logic
+102 RSTHV (Observe-only)
+101 EXTCLKEN Enable signals for main Clock/Oscillators
+100 OSCON
+99 RCOSCEN
+98 OSC32EN
+97 EXTCLK (XTAL1) Clock input and Oscillators for the main clock
+96 OSCCK (Observe-only)
+95 RCCK
+94 OSC32CK
+93 TWIEN TWI
+92 PD0.Data Port D
+91 PD0.Control
+90 PD0.Pullup_Enable
+89 PD1.Data
+88 PD1.Control
+87 PD1.Pullup_Enable
+86 PD2.Data
+85 PD2.Control
+84 PD2.Pullup_Enable
+83 PD3.Data
+82 PD3.Control
+81 PD3.Pullup_Enable
+80 PD4.Data
+79 PD4.Control
+78 PD4.Pullup_Enable
+77 PD5.Data
+76 PD5.Control
+75 PD5.Pullup_Enable
+74 PD6.Data
+73 PD6.Control
+72 PD6.Pullup_Enable
+71 PD7.Data
+70 PD7.Control
+69 PD7.Pullup_Enable
+68 PG0.Data
+67 PG0.Control Port G
+66 PG0.Pullup_Enable
+65 PG1.Data
+64 PG1.Control
+63 PG1.Pullup_Enable
+62 PC0.Data Port C
+61 PC0.Control
+60 PC0.Pullup_Enable
+59 PC1.Data
+58 PC1.Control
+57 PC1.Pullup_Enable
+56 PC2.Data
+55 PC2.Control
+54 PC2.Pullup_Enable
+53 PC3.Data
+52 PC3.Control
+51 PC3.Pullup_Enable
+50 PC4.Data
+49 PC4.Control
+48 PC4.Pullup_Enable
+47 PC5.Data
+46 PC5.Control
+45 PC5.Pullup_Enable
+44 PC6.Data
+43 PC6.Control
+42 PC6.Pullup_Enable
+41 PC7.Data
+40 PC7.Control
+39 PC7.Pullup_Enable
+38 PG2.Data Port G
+37 PG2.Control
+36 PG2.Pullup_Enable
+35 PA7.Data Port A
+34 PA7.Control
+33 PA7.Pullup_Enable
+32 PA6.Data
+31 PA6.Control Port A
+30 PA6.Pullup_Enable
+29 PA5.Data
+28 PA5.Control
+27 PA5.Pullup_Enable
+26 PA4.Data
+25 PA4.Control
+24 PA4.Pullup_Enable
+23 PA3.Data
+22 PA3.Control
+21 PA3.Pullup_Enable
+20 PA2.Data
+19 PA2.Control
+18 PA2.Pullup_Enable
+17 PA1.Data
+16 PA1.Control
+15 PA1.Pullup_Enable
+14 PA0.Data
+13 PA0.Control
+12 PA0.Pullup_Enable
+11 PF3.Data Port F
+10 PF3.Control
+9 PF3.Pullup_Enable
+8 PF2.Data
+7 PF2.Control
+6 PF2.Pullup_Enable
+5 PF1.Data
+4 PF1.Control
+3 PF1.Pullup_Enable
+2 PF0.Data
+1 PF0.Control
+0 PF0.Pullup_Enable
